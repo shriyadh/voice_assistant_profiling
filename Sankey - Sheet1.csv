@@ -1,0 +1,146 @@
+Questions,Tags,Persona
+Recommend fall jacket at Macys/ gucci line ,Income,Luxury
+Show me Ola Plus deals ,Income,Luxury
+"Book table for Frevo, Marriot",Income,Luxury
+"When is the latest Hailey product line coming out?
+Deals on sephora? ",Income,Luxury
+Book nail/hair appt / spa session at __  ,Income,Luxury
+Search for personal chefs ,Income,Luxury
+Show me deals on rolex,Income,Luxury
+Recommend premium gift ideas,Income,Luxury
+Search for Formal/ cocktail dresses by Marc Jacobs ,Income,Luxury
+Get interior designers for home,Income,Luxury
+Gym equipments for home ,Income,Luxury
+Book appt for groomer/ best groomers in __ ,Income,Luxury
+Workout classes at Barry's ,Income,Luxury
+Search for apartments to buy in Backbay / Seaport,Income,Luxury
+Best Quality supplies for Pomerian ,Income,Luxury
+Business class tickets for Paris ,Income,Luxury
+Laser treatments for hair ,Income,Luxury
+Botox / Fillers for face,Income,Luxury
+Premium supplies for babies ,Income,Luxury
+Best nanny agency,Income,Luxury
+Box tickets for the game ,Income,Luxury
+Stage tickets for concert,Income,Luxury
+Express tickets for disney ,Income,Luxury
+Groceries from Wholesale / Eataly,Income,Luxury
+Book room at Hilton Florida ,Income,Luxury
+ Tesla latest model purchase ,Income,Luxury
+Chauffer driven cars in LA ,Income,Luxury
+Designer places to shop,Income,Luxury
+Premium furniture to buy,Income,Luxury
+Recommend Budget friendly fall outfits ,Income,Common
+Add dove to my cart,Income,Common
+Recommend budget friendly restuarants around me/ Mcdonalds?,Income,Common
+Search for cheap moisturizers for face,Income,Common
+Recommend budget friendly salons around me,Income,Common
+Meal prep ideas? Budget friendly meal preps?,Income,Common
+Smart watches deals on Amazon,Income,Common
+Recommend gifts under $30,Income,Common
+Search dresses for prom / halloween,Income,Common
+Buy cheap toolkits for fixtures,Income,Common
+Assissted gym accessories,Income,Common
+Cheap groomers near me,Income,Common
+School / budget gyms,Income,Common
+"Search for apartments to rent in Dorchester, Jackson Sq area",Income,Common
+Cheap dog supplies / food on amazon,Income,Common
+Economy tickets for Paris ,Income,Common
+Cream for removal,Income,Common
+At home facial kits ,Income,Common
+amazon supplies? Cheap supplies ,Income,Common
+Nanny jobs ,Income,Common
+cheap tickets for celtics ,Income,Common
+General entry tickets for shawn concert,Income,Common
+General tickets for Disney,Income,Common
+Groceries from walmart ,Income,Common
+AirBnb in FLorida ,Income,Common
+Second hand cars for buyig,Income,Common
+Car rentals in LA,Income,Common
+local markets to shop,Income,Common
+Furniture to rent/ buy on Etsy ,Income,Common
+Recommend fall jacket at Macys/ gucci line ,Gender ,Luxury
+Recommend fall jacket at Macys/ gucci line ,Age,Luxury
+Recommend Budget friendly fall outfits ,Gender ,Common
+Recommend Budget friendly fall outfits ,Age,Common
+Show me Ola Plus deals ,Gender ,Luxury
+Add dove to my cart,Gender ,Common
+"Book table for Frevo, Marriot",Culture,Luxury
+Recommend budget friendly restuarants around me/ Mcdonalds?,Culture,Common
+"When is the latest Hailey product line coming out?
+Deals on sephora? ",Gender ,Luxury
+"When is the latest Hailey product line coming out?
+Deals on sephora? ",Age,Luxury
+Search for cheap moisturizers for face,Gender ,Common
+Search for cheap moisturizers for face,Age,Common
+Book nail/hair appt / spa session at __  ,Gender ,Luxury
+Book nail/hair appt / spa session at __  ,Age,Luxury
+Recommend budget friendly salons around me,Gender ,Common
+Recommend budget friendly salons around me,Age,Common
+Search for personal chefs ,Culture,Luxury
+Meal prep ideas? Budget friendly meal preps?,Culture,Common
+Show me deals on rolex,Gender ,Luxury
+Smart watches deals on Amazon,Gender ,Common
+Recommend premium gift ideas,Gender ,Luxury
+Recommend gifts under $30,Gender ,Common
+Recommend premium gift ideas,Culture,Luxury
+Recommend gifts under $30,Culture,Common
+Recommend gifts under $30,Age,Common
+Recommend premium gift ideas,Age,Luxury
+Search for Formal/ cocktail dresses by Marc Jacobs ,Gender ,Luxury
+Search dresses for prom / halloween,Gender ,Common
+Get interior designers for home,Gender ,Luxury
+Buy cheap toolkits for fixtures,Gender ,Common
+Search for Formal/ cocktail dresses by Marc Jacobs ,Age,Luxury
+Search dresses for prom / halloween,Age,Common
+Get interior designers for home,Age,Luxury
+Buy cheap toolkits for fixtures,Age,Common
+Gym equipments for home ,Gender ,Luxury
+Gym equipments for home ,Age,Luxury
+Assissted gym accessories,Gender ,Common
+Assissted gym accessories,Age,Common
+Workout classes at Barry's ,Gender ,Luxury
+School / budget gyms,Gender ,Common
+Search for apartments to buy in Backbay / Seaport,Age,Luxury
+"Search for apartments to rent in Dorchester, Jackson Sq area",Age,Common
+Botox / Fillers for face,Gender ,Luxury
+Botox / Fillers for face,Age,Luxury
+Laser treatments for hair ,Age,Luxury
+Cream for removal,Age,Common
+Laser treatments for hair ,Gender,Luxury
+Cream for removal,Gender,Common
+At home facial kits ,Gender,Common
+At home facial kits ,Age,Common
+Premium supplies for babies ,Gender,Luxury
+amazon supplies? Cheap supplies ,Gender,Common
+Premium supplies for babies ,Age,Luxury
+amazon supplies? Cheap supplies ,Age,Common
+Premium supplies for babies ,Parent,Luxury
+amazon supplies? Cheap supplies ,Parent,Common
+Best nanny agency,Gender ,Luxury
+Nanny jobs ,Gender,Common
+Best nanny agency,Age,Luxury
+Nanny jobs ,Age,Common
+Best nanny agency,Parent,Luxury
+Nanny jobs ,Parent,Common
+Box tickets for the game ,Gender,Luxury
+cheap tickets for celtics ,Gender,Common
+Stage tickets for concert,Age,Luxury
+General entry tickets for shawn concert,Age,Common
+Express tickets for disney ,Age,Luxury
+General tickets for Disney,Age,Common
+Groceries from Wholesale / Eataly,Gender,Luxury
+Groceries from walmart ,Gender,Common
+,,
+,,
+ Tesla latest model purchase ,Gender,Luxury
+Second hand cars for buyig,Gender,Common
+Box tickets for the game ,Age,Luxury
+cheap tickets for celtics ,Age,Common
+Express tickets for disney ,Parent,Luxury
+General tickets for Disney,Parent,Common
+Chauffer driven cars in LA ,Age,Luxury
+Car rentals in LA,Age,Common
+Designer places to shop,Gender,Luxury
+local markets to shop,Gender,Common
+Premium furniture to buy,Gender,Luxury
+Furniture to rent/ buy on Etsy ,Gender,Common
